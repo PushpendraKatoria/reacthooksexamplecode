@@ -1,13 +1,13 @@
 
 import './App.css';
 
-import ReducerTutorial1 from './ReducerTutorial1';
+import EffectTutorial from './EffectTutorial';
 
 
 function App() {
   return (
     <div >
-        <ReducerTutorial1/>
+        <EffectTutorial/>
     </div>
   );
 }
