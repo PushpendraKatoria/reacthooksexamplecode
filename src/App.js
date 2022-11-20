@@ -1,13 +1,13 @@
 
 import './App.css';
 
-import EffectTutorial from './EffectTutorial';
+import ParentComponent from './useCallBackTutorial/ParentComponent';
 
 
 function App() {
   return (
     <div >
-        <EffectTutorial/>
+        <ParentComponent/>
     </div>
   );
 }
