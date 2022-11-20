@@ -1,12 +1,13 @@
 
 import './App.css';
-import ReducerTutorial from './ReducerTutorial';
-import StateTutorial from './StateTutorial';
+
+import ReducerTutorial1 from './ReducerTutorial1';
+
 
 function App() {
   return (
     <div >
-        <ReducerTutorial/>
+        <ReducerTutorial1/>
     </div>
   );
 }
