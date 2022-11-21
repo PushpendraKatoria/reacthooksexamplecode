@@ -1,13 +1,12 @@
 
 import './App.css';
-
-import ParentComponent from './useCallBackTutorial/ParentComponent';
+import Parent from './contextAPIs/Parent';
 
 
 function App() {
   return (
     <div >
-        <ParentComponent/>
+        <Parent/>
     </div>
   );
 }
