@@ -1,12 +1,12 @@
 
 import './App.css';
-import ContextParent from './BasicContextExamples/ContextParent';
+import { ParentComp } from './DynamicContext/ParentComp';
 
 
 function App() {
   return (
     <div >
-        <ContextParent/>
+        <ParentComp />
     </div>
   );
 }
