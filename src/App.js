@@ -1,12 +1,12 @@
 
 import './App.css';
-import Parent from './contextAPIs/Parent';
+import ContextParent from './BasicContextExamples/ContextParent';
 
 
 function App() {
   return (
     <div >
-        <Parent/>
+        <ContextParent/>
     </div>
   );
 }
