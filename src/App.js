@@ -1,12 +1,12 @@
 
 import './App.css';
-import ReducerTutorial from './ReducerTutorial';
-import StateTutorial from './StateTutorial';
+import ContextParent from './BasicContextExamples/ContextParent';
+
 
 function App() {
   return (
     <div >
-        <ReducerTutorial/>
+        <ContextParent/>
     </div>
   );
 }
